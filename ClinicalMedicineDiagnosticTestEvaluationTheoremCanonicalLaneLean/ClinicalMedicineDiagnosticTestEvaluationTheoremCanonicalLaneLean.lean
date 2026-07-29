@@ -1,0 +1,13 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace ClinicalMedicineDiagnosticTestEvaluationTheoremCanonicalLaneLean
+
+open HautevilleHouse.CanonicalLaneMathlibCore
+
+structure ClinicalMedicineDiagnosticTestEvaluationTheoremCanonicalLaneLean where
+  diagnosticTestEvaluation : Prop
+  admissibleClosure : Prop
+
+end ClinicalMedicineDiagnosticTestEvaluationTheoremCanonicalLaneLean
+end HautevilleHouse
